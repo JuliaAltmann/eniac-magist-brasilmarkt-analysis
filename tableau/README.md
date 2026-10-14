@@ -47,6 +47,6 @@ The findings should be interpreted in the context of the available dataset, anal
 
 - [Main Project README](../README.md)
 
-- [SQL Analysis](../sql/)
+- [SQL Analysis](../MAGIST%20sql-queries%20datei%20analysis.sql)
 
-- [Business Presentation](../presentation/)
+- [Business Presentation](../Presentation%20Analysis%20Magist.pdf)
